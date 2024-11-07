@@ -1,0 +1,33 @@
+.hero {
+    background-color: #986e2f;
+    color: white;
+    padding: 60px 0;
+    text-align: center;
+}
+.section {
+    padding: 40px 0;
+}
+.section-title {
+    margin-bottom: 20px;
+    font-size: 1.8em;
+    color: #333;
+}
+.bg-light-blue {
+    background-color: #f0f8ff;
+}
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+.img-fluid {
+    margin-top: 15px;
+    border-radius: 8px;
+}
+.problema {
+    margin-top: 15px;
+    border-radius: 8px;
+    width: 60%;
+    height: auto;
+}
